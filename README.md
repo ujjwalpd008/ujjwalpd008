@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello and Welcome! 🚀
 
-<!--
-**ujjwalpd008/ujjwalpd008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🤖 I'm an **AI Engineer** at [Reliance Intelligence](https://www.linkedin.com/company/reliance-intelligence), building agents for Bharat.
+- 📍 Based in **Bengaluru**.
+- 🛠️ I work on ML, agents, and open source.
+- ✨ [Add a fun fact or hobby here!]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in Touch
+
+- 🔗 [LinkedIn](https://linkedin.com/in/ujjwal-nitjsr)
+- 📧 Feel free to reach out—I'm always open to connecting!
