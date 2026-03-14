@@ -21,16 +21,6 @@ I'm open to **guest lectures, tech talks, and workshops** for universities and c
 
 📧 **For speaking inquiries:** Reach out via [LinkedIn](https://linkedin.com/in/ujjwal-nitjsr) or email — I’m happy to discuss format, duration, and audience.
 
----
-
-## For recruiters
-
-- **Current focus:** AI/ML engineering, agent systems, and scalable AI products
-- **Location:** Bengaluru (open to remote/hybrid for the right role)
-
-**Interested in working together?** Connect on [LinkedIn](https://linkedin.com/in/ujjwal-nitjsr) or drop a message — I’m always open to thoughtful opportunities.
-
----
 
 ## Get in touch
 
