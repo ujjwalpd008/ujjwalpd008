@@ -1,6 +1,6 @@
 # Hi, I'm Ujjwal 👋
 
-**AI Engineer** at [Reliance Intelligence](https://www.linkedin.com/company/reliance-intelligence/) · Building AI agents for Bharat · Based in Bengaluru
+**AI Engineer** at [Reliance Intelligence](https://www.linkedin.com/in/ujjwal-nitjsr/) · Building AI agents for Bharat · Based in Bengaluru
 
 ---
 
