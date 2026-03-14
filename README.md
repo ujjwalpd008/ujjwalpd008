@@ -22,6 +22,12 @@ I'm open to **guest lectures, tech talks, and workshops** for universities and c
 📧 **For speaking inquiries:** Reach out via [LinkedIn](https://linkedin.com/in/ujjwal-nitjsr) or email — I’m happy to discuss format, duration, and audience.
 
 
+## Blog posts
+
+- [MCPs & Skills: It's Not a Competition](https://medium.com/@ujjwalpratap/mcps-skills-its-not-a-competition-93f442a62b0c)
+
+---
+
 ## Get in touch
 
 | | |
