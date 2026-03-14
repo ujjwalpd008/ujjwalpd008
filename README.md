@@ -1,13 +1,41 @@
-# Hello and Welcome! 🚀
+# Hi, I'm Ujjwal 👋
 
-## About Me
+**AI Engineer** at [Reliance Intelligence](https://www.linkedin.com/company/reliance-intelligence/) · Building AI agents for Bharat · Based in Bengaluru
 
-- 🤖 I'm an **AI Engineer** at [Reliance Intelligence](https://www.linkedin.com/company/reliance-intelligence), building agents for Bharat.
-- 📍 Based in **Bengaluru**.
-- 🛠️ I work on ML, agents, and open source.
-- ✨ [Add a fun fact or hobby here!]
+---
 
-## Get in Touch
+## Expertise
 
-- 🔗 [LinkedIn](https://linkedin.com/in/ujjwal-nitjsr)
-- 📧 Feel free to reach out—I'm always open to connecting!
+I build and ship **AI systems** with a focus on:
+
+- **AI Agents & LLMs** — designing and deploying agentic systems for real-world use cases
+- **Machine Learning** — end-to-end ML pipelines and production systems
+
+---
+
+## Guest speaking & workshops
+
+I'm open to **guest lectures, tech talks, and workshops** for universities and colleges.
+
+**Topics I can cover:** AI agents, LLMs in production, building for Bharat, career in AI/ML, or custom topics aligned with your curriculum.
+
+📧 **For speaking inquiries:** Reach out via [LinkedIn](https://linkedin.com/in/ujjwal-nitjsr) or email — I’m happy to discuss format, duration, and audience.
+
+---
+
+## For recruiters
+
+- **Current focus:** AI/ML engineering, agent systems, and scalable AI products
+- **Location:** Bengaluru (open to remote/hybrid for the right role)
+
+**Interested in working together?** Connect on [LinkedIn](https://linkedin.com/in/ujjwal-nitjsr) or drop a message — I’m always open to thoughtful opportunities.
+
+---
+
+## Get in touch
+
+| | |
+|---|---|
+| **LinkedIn** | [linkedin.com/in/ujjwal-nitjsr](https://linkedin.com/in/ujjwal-nitjsr) |
+
+*Open to collaboration, speaking, and conversations about AI and building for India.*
