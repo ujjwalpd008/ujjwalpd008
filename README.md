@@ -19,6 +19,12 @@ I build and ship **AI systems** with a focus on:
 
 ---
 
+## Open source projects
+
+- **[Gringotts](https://github.com/ujjwalpd008/gringotts)** — Local terminal command vault CLI (`gringotts` / `gt`): save commands by label, fuzzy recall, fzf `pick`, and optional shell suggestions.
+
+---
+
 ## Get in touch
 
 | | |
